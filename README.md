@@ -8,9 +8,9 @@
 
 ### 🙋🏻‍♀️ Biografía
 
-<p align="center">
+<h4>
  Ingeniera de Sistemas especializada en ingeniería de datos, modelado relacional y analítica de negocios. Diseño arquitecturas eficientes para transformar datos crudos en métricas clave y dashboards interactivos que impulsan la toma de decisiones.
-</p>
+</h4>
 
 ---
 
