@@ -1,34 +1,36 @@
-<h1 align="center" style="color: #1B74CC;">𝐼𝑛𝑔𝑒𝑛𝑖𝑒𝑟𝑎 𝑆𝑎𝑏𝑟𝑖𝑛𝑎 𝑅𝑜𝑗𝑎𝑠</h1>
-<h3 align="center">Systems Engineer | Data Analyst & BI Specialist</h3>
+![Header Banner](banner.png)
 
 <p align="center">
-  Apasionada por la ingeniería de datos, el modelado relacional y la analítica de negocios.<br>Transformo datos crudos en arquitecturas eficientes, métricas clave y dashboards interactivos para la toma de decisiones estratégicas.
+  Apasionada por la ingeniería de datos, el modelado relacional y la analítica de negocios.<br>Transformo datos crudos en arquitecturas eficientes, métricas clave y dashboards interactivos.
 </p>
 
 ---
 
-### ⌨️ Tech Stack & Herramientas
+### 📊 Actividad & Estadísticas
 
-* **Data Analytics, BI & Databases:**
-  ![SQL](https://img.shields.io/badge/SQL-02569B?style=flat-square&logo=sqlite&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power_BI-004B87?style=flat-square&logo=powerbi&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-* **Web & Interface Development:**
-  ![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-00599C?style=flat-square)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-004B87?style=flat-square&logo=javascript&logoColor=white)
-  ![Sass](https://img.shields.io/badge/Sass-1572B6?style=flat-square&logo=sass&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IngSabrinaRojas&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngSabrinaRojas&layout=compact&theme=nord&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### ⌨️ Proyectos Destacados
+### 🛠️ Tech Stack & Herramientas
 
-* 📻 **[Dashboard Radio Bahía](https://github.com/IngSabrinaRojas/Dashboard-Radio-Bahia):** Solución integral de BI (PostgreSQL + Power BI) para analizar patrones de audiencia en streaming, horas pico de demanda y métricas de consumo.
+![SQL](https://img.shields.io/badge/SQL-02569B?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-004B87?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
-### ⌨️ Contacto & Enlaces
+### 📌 Proyectos Destacados
+
+* 📻 **[Dashboard Radio Bahía](https://github.com/IngSabrinaRojas/Dashboard-Radio-Bahia):** Solución integral de BI (PostgreSQL + Power BI) para analizar patrones de audiencia.
+
+---
+
+### 📬 Contacto & Enlaces
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sabrina-rojas-aponte-b5802826b" target="_blank">
