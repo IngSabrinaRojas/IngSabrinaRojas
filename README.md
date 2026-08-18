@@ -25,7 +25,7 @@
 
 ### 📌 Proyectos Destacados
 
-* 📻 **[Dashboard Radio Bahía](https://github.com/IngSabrinaRojas/Dashboard-Radio-Bahia):** Solución integral de BI (PostgreSQL + Power BI) para analizar patrones de audiencia.
+* 📻 **[Dashboard Radio Bahía](https://github.com/IngSabrinaRojas/-DashboardRadioBahia):** Solución integral de BI (PostgreSQL + Power BI) para analizar patrones de audiencia.
 
 ---
 
