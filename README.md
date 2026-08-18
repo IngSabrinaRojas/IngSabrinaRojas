@@ -1,25 +1,20 @@
 <h1>
-  Hi! I'm Sabrina 
+  Hi! I'm Sabrina 👋🏻​👩🏻‍💻​
 </h1>
 
 ![Header Banner](banner.png)
 
+---
+
+### 🙋🏻‍♀️ Biografía
+
 <p align="center">
-  Apasionada por la ingeniería de datos, el modelado relacional y la analítica de negocios.<br>Transformo datos crudos en arquitecturas eficientes, métricas clave y dashboards interactivos.
+ Ingeniera de Sistemas especializada en ingeniería de datos, modelado relacional y analítica de negocios. Diseño arquitecturas eficientes para transformar datos crudos en métricas clave y dashboards interactivos que impulsan la toma de decisiones.
 </p>
 
 ---
 
-### 📊 Actividad & Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IngSabrinaRojas&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngSabrinaRojas&layout=compact&theme=nord&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🛠️ Tech Stack & Herramientas
+### 🚀​ Tech Stack & Herramientas
 
 ![SQL](https://img.shields.io/badge/SQL-02569B?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
