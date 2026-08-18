@@ -7,28 +7,35 @@
 
 ---
 
-⌨ Tech Stack & Herramientas
+### ⌨️ Tech Stack & Herramientas
 
-⇥ Data Analytics, BI & Databases:
-![SQL](https://img.shields.io/badge/SQL-02569B?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-004B87?style=flat-square&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white)
+* **Data Analytics, BI & Databases:**
+  ![SQL](https://img.shields.io/badge/SQL-02569B?style=flat-square&logo=sqlite&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power_BI-004B87?style=flat-square&logo=powerbi&logoColor=white)
+  ![Excel](https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-⇥ Web & Interface Development:
-![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-00599C?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-004B87?style=flat-square&logo=javascript&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-1572B6?style=flat-square&logo=sass&logoColor=white)
-
----
-
-⌨ Proyectos Destacados
-
-⇥ [Dashboard Radio Bahía](https://github.com/IngSabrinaRojas/Dashboard-Radio-Bahia):** Solución integral de BI (PostgreSQL + Power BI) para analizar patrones de audiencia en streaming, horas pico de demanda y métricas de consumo.
+* **Web & Interface Development:**
+  ![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-00599C?style=flat-square)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-004B87?style=flat-square&logo=javascript&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-1572B6?style=flat-square&logo=sass&logoColor=white)
 
 ---
 
-⌨ Contacto
+### ⌨️ Proyectos Destacados
 
-⇥ [![LinkedIn](www.linkedin.com/in/sabrina-rojas-aponte-b5802826b)
-⇥ [![Portafolio](https://ingsabrinarojas.github.io/Portafolio/)
+* 📻 **[Dashboard Radio Bahía](https://github.com/IngSabrinaRojas/Dashboard-Radio-Bahia):** Solución integral de BI (PostgreSQL + Power BI) para analizar patrones de audiencia en streaming, horas pico de demanda y métricas de consumo.
+
+---
+
+### ⌨️ Contacto & Enlaces
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sabrina-rojas-aponte-b5802826b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://ingsabrinarojas.github.io/Portafolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio_Web-004B87?style=flat-square&logo=googlechrome&logoColor=white" alt="Portafolio Web" />
+  </a>
+</p>
