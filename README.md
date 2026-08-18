@@ -11,11 +11,11 @@
 
 Ingeniera de Sistemas | Data & Analytics
 
-<li>Especialidad: Modelado relacional y arquitectura de datos.</li>
+* Especialidad: Modelado relacional y arquitectura de datos.
 
-<li>Enfoque: Transformación de datos crudos en métricas clave y dashboards interactivos.</li>
+* Enfoque: Transformación de datos crudos en métricas clave y dashboards interactivos.
 
-<li>Propósito: Optimizar procesos e impulsar decisiones basadas en datos.</li>
+* Propósito: Optimizar procesos e impulsar decisiones basadas en datos.
 
 
 ---
