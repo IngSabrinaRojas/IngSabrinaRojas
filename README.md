@@ -25,10 +25,10 @@
 ⌨ Proyectos Destacados
 
 ⇥ [Dashboard Radio Bahía](https://github.com/IngSabrinaRojas/Dashboard-Radio-Bahia):** Solución integral de BI (PostgreSQL + Power BI) para analizar patrones de audiencia en streaming, horas pico de demanda y métricas de consumo.
-⇥ [Portafolio de Análisis de Datos](https://github.com/IngSabrinaRojas/Portafolio):** Repositorio con casos prácticos, scripts SQL, modelos de datos relacionales y dashboards de rendimiento.
 
 ---
 
 ⌨ Contacto
 
-⇥ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+⇥ [![LinkedIn](www.linkedin.com/in/sabrina-rojas-aponte-b5802826b)
+⇥ [![Portafolio](https://ingsabrinarojas.github.io/Portafolio/)
