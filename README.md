@@ -1,3 +1,7 @@
+<h1>
+  Hi! I'm Sabrina 
+</h1>
+
 ![Header Banner](banner.png)
 
 <p align="center">
