@@ -1,5 +1,6 @@
-# Sabrina Rojas
-### Systems Engineer | Data Analyst & BI Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=004B87&height=200&section=header&text=Sabrina%20Rojas&fontSize=42&fontColor=ffffff&desc=Systems%20Engineer%20|%20Data%20Analyst%20%26%20BI%20Specialist&descSize=18&descAlignY=62" width="100%" />
+</p>
 
 Apasionada por la ingeniería de datos, el modelado relacional y la analítica de negocios. Transformo datos crudos en arquitecturas eficientes, métricas clave y dashboards interactivos para la toma de decisiones estratégicas.
 
@@ -22,8 +23,8 @@ Apasionada por la ingeniería de datos, el modelado relacional y la analítica d
 
 ### 📌 Proyectos Destacados
 
-* 📻 **[Dashboard Radio Bahía](https://github.com/IngSabrinaRojas/Dashboard-Radio-Bahia):** Solución integral de BI (PostgreSQL + Power BI) para analizar patrones de audiencia en streaming, detección de horas pico y consumo de catálogo.
-* 📊 **[Portafolio de Análisis de Datos](https://github.com/IngSabrinaRojas/Portafolio):** Repositorio con casos prácticos, scripts SQL, modelos de datos y dashboards de rendimiento.
+* 📻 **[Dashboard Radio Bahía](https://github.com/IngSabrinaRojas/Dashboard-Radio-Bahia):** Solución integral de BI (PostgreSQL + Power BI) para analizar patrones de audiencia en streaming, horas pico de demanda y métricas de consumo.
+* 📊 **[Portafolio de Análisis de Datos](https://github.com/IngSabrinaRojas/Portafolio):** Repositorio con casos prácticos, scripts SQL, modelos de datos relacionales y dashboards de rendimiento.
 
 ---
 
