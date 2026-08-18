@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=004B87&height=200&section=header&text=Sabrina%20Rojas&fontSize=42&fontColor=ffffff&desc=Systems%20Engineer%20|%20Data%20Analyst%20%26%20BI%20Specialist&descSize=18&descAlignY=62" width="100%" />
-</p>
+<h1 align="center" style="color: #004B87;">Sabrina Rojas</h1>
+<h3 align="center">Systems Engineer | Data Analyst & BI Specialist</h3>
 
-Apasionada por la ingeniería de datos, el modelado relacional y la analítica de negocios. Transformo datos crudos en arquitecturas eficientes, métricas clave y dashboards interactivos para la toma de decisiones estratégicas.
+<p align="center">
+  Apasionada por la ingeniería de datos, el modelado relacional y la analítica de negocios.<br>Transformo datos crudos en arquitecturas eficientes, métricas clave y dashboards interactivos para la toma de decisiones estratégicas.
+</p>
 
 ---
 
